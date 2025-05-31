@@ -20,8 +20,13 @@ Try out the app live on Streamlit Cloud:
 - Scikit-learn
 - Joblib
 - Jupyter Notebook (for model training)
+## Dataset
 
-## How to Run Locally
+The dataset used in this project is available on Kaggle:  
+[PCOS Dataset on Kaggle](https://www.kaggle.com/datasets/your-dataset-link)
+
+
+## How to Run Locally?
 
 1. **Clone the repository**:
    ```bash
