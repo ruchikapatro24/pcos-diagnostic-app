@@ -1,7 +1,11 @@
 # PCOS Diagnostic App
 
 A simple Streamlit web app that predicts the likelihood of **Polycystic Ovary Syndrome (PCOS)** using a trained machine learning model.
+## Live Demo
 
+Try out the app live on Streamlit Cloud:
+
+[PCOS Diagnostic App - Live Demo](https://pcos-diagnostic-app-zqodvfwmu9kij4u8n5zk72.streamlit.app/)
 ## Features
 
 - Upload patient data through sliders and inputs
@@ -32,6 +36,8 @@ A simple Streamlit web app that predicts the likelihood of **Polycystic Ovary Sy
 ## Model Training
 
 The model was trained in this notebook: [`PCOS_Diagnostic_Project.ipynb`](./PCOS_Diagnostic_Project.ipynb), using real-world PCOS diagnostic datasets with appropriate preprocessing and EDA.
+
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
